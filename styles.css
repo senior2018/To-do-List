@@ -45,8 +45,8 @@ body {
 #todo-input {
   padding: 10px;
   align-items: center;
-  border: none;
-  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px 0 0 5px;
   font-size: 14px;
   max-width: 200px;
   width: 100%;
